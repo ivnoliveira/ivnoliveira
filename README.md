@@ -1,4 +1,6 @@
- <div>
+## Bem-vindo(a) ao perfil de Ivan Oliveira 😁
+
+<div>
    <a href="https://github.com/ivnoliveira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivnoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnoliveira&layout=compact&langs_count=6&theme=tokyonight"/>
